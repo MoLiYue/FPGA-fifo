@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 19 2021
+02:56:52
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.gen/sources_1/ip/dcfifo_8x256_8x256/sim/dcfifo_8x256_8x256.v,1647862478,verilog,,/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/dcfifo.v,,dcfifo_8x256_8x256,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.gen/sources_1/ip/scfifo_8x256/sim/scfifo_8x256.v,1647862256,verilog,,/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/fifo.v,,scfifo_8x256,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sim_1/new/tb_dcfifo.v,1647937434,verilog,,,,tb_dcfifo,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sim_1/new/tb_fifo.v,1647936796,verilog,,,,tb_fifo,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/dcfifo.v,1647941045,verilog,,/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/dcfifo_rd.v,,dcfifo,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/dcfifo_rd.v,1647939382,verilog,,/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/dcfifo_wr.v,,dcfifo_rd,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/dcfifo_wr.v,1647933738,verilog,,/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sim_1/new/tb_dcfifo.v,,dcfifo_wr,,,,,,,,
+/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sources_1/new/fifo.v,1647839986,verilog,,/home/mlyue/Documents/FPGA_A7/FIFO/vivado_proj/fifo.srcs/sim_1/new/tb_fifo.v,,fifo,,,,,,,,
